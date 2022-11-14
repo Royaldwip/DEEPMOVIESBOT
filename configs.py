@@ -15,39 +15,35 @@ class Config(object):
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
     ABOUT_BOT_TEXT = """<b>This is Mdisk Search Bot.
 
-🤖 My Name: <a href='https://t.me/cyniteofficial'>Mdisk Search Robot</a>
+🤖 My Name: <a href='https://t.me/movies_Searching_Robot_bot'>Movies Searching Robot Bot</a>
 
 📝 Language : <a href='https://www.python.org'> Python V3</a>
 
 📚 Library: <a href='https://docs.pyrogram.org'> Pyrogram</a>
 
-📡 Server: <a href='https://heroku.com'>Heroku</a>
+📡 Server: <a href='https://Koyeb.com'>Heroku</a>
 
-👨‍💻 Created By: <a href='https://t.me/cyniteofficial'>Cynite</a></b>
+👨‍💻 Created By: <a href='https://t.me/royaldwip'>Click Here</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/cyniteofficial'>Click Me</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/Royaldwip'>Click Me</a>
 
 If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
 
     HOME_TEXT = """
-<b>Hey! {}😅,
+<b>Hey! {},
 
-I'm Mdisk Search Robot.🤖</a>
+I'm Movies Search Robot.🤖</a>
 
-I Can Search 🔍 What You Want❗
-
-<a>Made With ❤ By @Cyniteofficial</a></b>
+<a>Made With ❤ By @Royaldwip</a></b>
 """
 
 
     START_MSG = """
-<b>Hey! {}😅,
+<b>Hey! {},
 
-I'm Mdisk Search Robot.🤖</a>
-
-I Can Search 🔍 What You Want❗
+I'm Movies Search Robot.🤖</a>
 
 <a>Made With ❤ By @Cyniteofficial</a></b>
 """
